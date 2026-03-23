@@ -1,4 +1,4 @@
 # Hi 👋, I'm Nensi
 
-💻 A passionate developer from India
+💻 A passionate developer
 🚀 Currently working on Web Development
